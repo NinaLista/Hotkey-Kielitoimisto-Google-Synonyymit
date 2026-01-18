@@ -15,7 +15,7 @@ This **AutoHotkey v2** script lets you look up selected text in online dictionar
 - ⚡ Fast, lightweight, no background activity  
 - 📝 Designed for workflows involving at least **Microsoft Word** & **SDL Trados Studio** (tested).
 
-The script opens the site on first use and then updates the address bar on subsequent lookups, keeping browser clutter to a minimum and making repeated dictionary or search queries seamless.
+The word is searched from the selected site. Next searches update the address bar on subsequent lookups, keeping browser clutter to a minimum (no new tabs for every search!), making repeated dictionary or search queries seamless.
 
 Built for **AutoHotkey v2**.
 
@@ -23,32 +23,29 @@ Built for **AutoHotkey v2**.
 
 - **Pause**  
   📘 Looks up the selected text in **Kielitoimiston sanakirja**  
-  (reuses the same tab)
-
+  
 - **Scroll Lock**  
   🔎 Searches the selected text on **Google**  
-  (reuses the same tab)
-
+  
 - **Alt + W**  
   📖 Looks up the selected text on **Synonyymit.fi**  
-  (reuses the same tab)
-
+  
 ## 🧩 Requirements
 
-- 🪟 Windows  
+- 🪟 Windows PC  
 - ⚙️ [AutoHotkey v2](https://www.autohotkey.com/)
 
 ## ▶️ Usage
 
-1. If you don't have AHK, install **AutoHotkey v2** from https://www.autohotkey.com/
-2. Download this script and save it locally as a `.ahk` file.
+1. If you don't have AHK, install **AutoHotkey v2** from https://www.autohotkey.com/ 
+2. Download the ahk. script file and save it locally as a `.ahk` file.
 3. Before working on your text, double-click the ahk. file to run it (an AutoHotkey icon will appear in the system tray).
 4. Select a word or text in your application (for example Word or Trados).
 5. Press one of the defined shortcut keys:
    - **Pause** → Kielitoimiston sanakirja
    - **Scroll Lock** → Google search
    - **Alt + W** → Synonyymit.fi
-6. The browser opens the site on first use. On subsequent uses, the same browser tab is reused and the search word is replaced.
+6. The word is searched from the selected site. On subsequent searches, the same browser tab is reused and the search word is replaced.
 
 To stop the script, right-click the AutoHotkey tray icon and choose **Exit**.
 
