@@ -1,5 +1,8 @@
 ﻿#Requires AutoHotkey v2.0
 
+; MIT License
+; Copyright (c) 2026 NinaLista
+; See LICENSE file for details
 
 ; -------------------------
 ; Hotkeys
@@ -118,3 +121,4 @@ UriEncodeUtf8(s)
     }
     return out
 }
+
