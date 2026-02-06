@@ -29,6 +29,8 @@ Built for **AutoHotkey v2**.
   
 - **Alt + W**  
   📖 Looks up the selected text on **Synonyymit.fi**  
+
+Note! Choose keys according to your own keyboard and software (watch out for duplicate commands present in softwares or Windows).
   
 ## 🧩 Requirements
 
