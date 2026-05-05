@@ -1,6 +1,8 @@
 # Quickly select text to Kielitoimisto/Google/Synonyymit-search for translators and writers
 Lightweight hotkeys for Windows PC: search selected text (deafult: Pause → Kielitoimiston sanakirja, ScrollLock → Google search,  Alt+w → Synonyymit.fi)
 
+[2 min video YouTube](https://www.youtube.com/watch?v=RE2Vd_De8Vc) (suomeksi)
+
 Tämä Windows PC AutoHotkey v2 -skripti mahdollistaa tekstinkäsittelyohjelmasta valitun tekstin nopean haun valituista sanakirjoista ja hakukoneista pikanäppäimillä. Välilehtiä ei avaudu turhaan.
 
 # 🔍 AutoHotkey lookup hotkeys with single-tab reuse
@@ -19,7 +21,7 @@ The word is searched from the selected site. Next searches update the address ba
 
 Built for **AutoHotkey v2**.
 
-## ⌨️ Shortcut keys
+## ⌨️ Shortcut keys 
 
 - **Pause**  
   📘 Looks up the selected text in **Kielitoimiston sanakirja**  
@@ -29,6 +31,8 @@ Built for **AutoHotkey v2**.
   
 - **Alt + W**  
   📖 Looks up the selected text on **Synonyymit.fi**  
+
+- Add more: SAOB, any language specific Wikipedia or Wiktionary, searchable databases - according to your project and workflow needs.
 
 Note! Choose keys according to your own keyboard and software (watch out for duplicate commands present in softwares or Windows).
   
